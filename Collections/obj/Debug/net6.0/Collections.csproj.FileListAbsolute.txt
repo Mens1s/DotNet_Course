@@ -1,0 +1,15 @@
+/Users/mens1s/Desktop/com.mens1s/test/CSCourse/CSharpCourse/Collections/bin/Debug/net6.0/Collections
+/Users/mens1s/Desktop/com.mens1s/test/CSCourse/CSharpCourse/Collections/bin/Debug/net6.0/Collections.deps.json
+/Users/mens1s/Desktop/com.mens1s/test/CSCourse/CSharpCourse/Collections/bin/Debug/net6.0/Collections.runtimeconfig.json
+/Users/mens1s/Desktop/com.mens1s/test/CSCourse/CSharpCourse/Collections/bin/Debug/net6.0/Collections.dll
+/Users/mens1s/Desktop/com.mens1s/test/CSCourse/CSharpCourse/Collections/bin/Debug/net6.0/Collections.pdb
+/Users/mens1s/Desktop/com.mens1s/test/CSCourse/CSharpCourse/Collections/obj/Debug/net6.0/Collections.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mens1s/Desktop/com.mens1s/test/CSCourse/CSharpCourse/Collections/obj/Debug/net6.0/Collections.AssemblyInfoInputs.cache
+/Users/mens1s/Desktop/com.mens1s/test/CSCourse/CSharpCourse/Collections/obj/Debug/net6.0/Collections.AssemblyInfo.cs
+/Users/mens1s/Desktop/com.mens1s/test/CSCourse/CSharpCourse/Collections/obj/Debug/net6.0/Collections.csproj.CoreCompileInputs.cache
+/Users/mens1s/Desktop/com.mens1s/test/CSCourse/CSharpCourse/Collections/obj/Debug/net6.0/Collections.sourcelink.json
+/Users/mens1s/Desktop/com.mens1s/test/CSCourse/CSharpCourse/Collections/obj/Debug/net6.0/Collections.dll
+/Users/mens1s/Desktop/com.mens1s/test/CSCourse/CSharpCourse/Collections/obj/Debug/net6.0/refint/Collections.dll
+/Users/mens1s/Desktop/com.mens1s/test/CSCourse/CSharpCourse/Collections/obj/Debug/net6.0/Collections.pdb
+/Users/mens1s/Desktop/com.mens1s/test/CSCourse/CSharpCourse/Collections/obj/Debug/net6.0/Collections.genruntimeconfig.cache
+/Users/mens1s/Desktop/com.mens1s/test/CSCourse/CSharpCourse/Collections/obj/Debug/net6.0/ref/Collections.dll

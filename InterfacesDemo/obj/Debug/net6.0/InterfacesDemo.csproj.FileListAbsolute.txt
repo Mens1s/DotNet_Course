@@ -1,0 +1,15 @@
+/Users/mens1s/Desktop/com.mens1s/test/CSCourse/CSharpCourse/InterfacesDemo/bin/Debug/net6.0/InterfacesDemo
+/Users/mens1s/Desktop/com.mens1s/test/CSCourse/CSharpCourse/InterfacesDemo/bin/Debug/net6.0/InterfacesDemo.deps.json
+/Users/mens1s/Desktop/com.mens1s/test/CSCourse/CSharpCourse/InterfacesDemo/bin/Debug/net6.0/InterfacesDemo.runtimeconfig.json
+/Users/mens1s/Desktop/com.mens1s/test/CSCourse/CSharpCourse/InterfacesDemo/bin/Debug/net6.0/InterfacesDemo.dll
+/Users/mens1s/Desktop/com.mens1s/test/CSCourse/CSharpCourse/InterfacesDemo/bin/Debug/net6.0/InterfacesDemo.pdb
+/Users/mens1s/Desktop/com.mens1s/test/CSCourse/CSharpCourse/InterfacesDemo/obj/Debug/net6.0/InterfacesDemo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mens1s/Desktop/com.mens1s/test/CSCourse/CSharpCourse/InterfacesDemo/obj/Debug/net6.0/InterfacesDemo.AssemblyInfoInputs.cache
+/Users/mens1s/Desktop/com.mens1s/test/CSCourse/CSharpCourse/InterfacesDemo/obj/Debug/net6.0/InterfacesDemo.AssemblyInfo.cs
+/Users/mens1s/Desktop/com.mens1s/test/CSCourse/CSharpCourse/InterfacesDemo/obj/Debug/net6.0/InterfacesDemo.csproj.CoreCompileInputs.cache
+/Users/mens1s/Desktop/com.mens1s/test/CSCourse/CSharpCourse/InterfacesDemo/obj/Debug/net6.0/InterfacesDemo.sourcelink.json
+/Users/mens1s/Desktop/com.mens1s/test/CSCourse/CSharpCourse/InterfacesDemo/obj/Debug/net6.0/InterfacesDemo.dll
+/Users/mens1s/Desktop/com.mens1s/test/CSCourse/CSharpCourse/InterfacesDemo/obj/Debug/net6.0/refint/InterfacesDemo.dll
+/Users/mens1s/Desktop/com.mens1s/test/CSCourse/CSharpCourse/InterfacesDemo/obj/Debug/net6.0/InterfacesDemo.pdb
+/Users/mens1s/Desktop/com.mens1s/test/CSCourse/CSharpCourse/InterfacesDemo/obj/Debug/net6.0/InterfacesDemo.genruntimeconfig.cache
+/Users/mens1s/Desktop/com.mens1s/test/CSCourse/CSharpCourse/InterfacesDemo/obj/Debug/net6.0/ref/InterfacesDemo.dll

@@ -1,0 +1,15 @@
+/Users/mens1s/Desktop/com.mens1s/test/CSCourse/CSharpCourse/RecapDemo2/bin/Debug/net6.0/RecapDemo2
+/Users/mens1s/Desktop/com.mens1s/test/CSCourse/CSharpCourse/RecapDemo2/bin/Debug/net6.0/RecapDemo2.deps.json
+/Users/mens1s/Desktop/com.mens1s/test/CSCourse/CSharpCourse/RecapDemo2/bin/Debug/net6.0/RecapDemo2.runtimeconfig.json
+/Users/mens1s/Desktop/com.mens1s/test/CSCourse/CSharpCourse/RecapDemo2/bin/Debug/net6.0/RecapDemo2.dll
+/Users/mens1s/Desktop/com.mens1s/test/CSCourse/CSharpCourse/RecapDemo2/bin/Debug/net6.0/RecapDemo2.pdb
+/Users/mens1s/Desktop/com.mens1s/test/CSCourse/CSharpCourse/RecapDemo2/obj/Debug/net6.0/RecapDemo2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mens1s/Desktop/com.mens1s/test/CSCourse/CSharpCourse/RecapDemo2/obj/Debug/net6.0/RecapDemo2.AssemblyInfoInputs.cache
+/Users/mens1s/Desktop/com.mens1s/test/CSCourse/CSharpCourse/RecapDemo2/obj/Debug/net6.0/RecapDemo2.AssemblyInfo.cs
+/Users/mens1s/Desktop/com.mens1s/test/CSCourse/CSharpCourse/RecapDemo2/obj/Debug/net6.0/RecapDemo2.csproj.CoreCompileInputs.cache
+/Users/mens1s/Desktop/com.mens1s/test/CSCourse/CSharpCourse/RecapDemo2/obj/Debug/net6.0/RecapDemo2.sourcelink.json
+/Users/mens1s/Desktop/com.mens1s/test/CSCourse/CSharpCourse/RecapDemo2/obj/Debug/net6.0/RecapDemo2.dll
+/Users/mens1s/Desktop/com.mens1s/test/CSCourse/CSharpCourse/RecapDemo2/obj/Debug/net6.0/refint/RecapDemo2.dll
+/Users/mens1s/Desktop/com.mens1s/test/CSCourse/CSharpCourse/RecapDemo2/obj/Debug/net6.0/RecapDemo2.pdb
+/Users/mens1s/Desktop/com.mens1s/test/CSCourse/CSharpCourse/RecapDemo2/obj/Debug/net6.0/RecapDemo2.genruntimeconfig.cache
+/Users/mens1s/Desktop/com.mens1s/test/CSCourse/CSharpCourse/RecapDemo2/obj/Debug/net6.0/ref/RecapDemo2.dll

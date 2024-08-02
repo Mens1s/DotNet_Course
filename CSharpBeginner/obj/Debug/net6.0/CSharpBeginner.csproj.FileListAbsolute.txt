@@ -1,0 +1,15 @@
+/Users/mens1s/Desktop/com.mens1s/test/CSCourse/CSharpCourse/CSharpBeginner/bin/Debug/net6.0/CSharpBeginner
+/Users/mens1s/Desktop/com.mens1s/test/CSCourse/CSharpCourse/CSharpBeginner/bin/Debug/net6.0/CSharpBeginner.deps.json
+/Users/mens1s/Desktop/com.mens1s/test/CSCourse/CSharpCourse/CSharpBeginner/bin/Debug/net6.0/CSharpBeginner.runtimeconfig.json
+/Users/mens1s/Desktop/com.mens1s/test/CSCourse/CSharpCourse/CSharpBeginner/bin/Debug/net6.0/CSharpBeginner.dll
+/Users/mens1s/Desktop/com.mens1s/test/CSCourse/CSharpCourse/CSharpBeginner/bin/Debug/net6.0/CSharpBeginner.pdb
+/Users/mens1s/Desktop/com.mens1s/test/CSCourse/CSharpCourse/CSharpBeginner/obj/Debug/net6.0/CSharpBeginner.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mens1s/Desktop/com.mens1s/test/CSCourse/CSharpCourse/CSharpBeginner/obj/Debug/net6.0/CSharpBeginner.AssemblyInfoInputs.cache
+/Users/mens1s/Desktop/com.mens1s/test/CSCourse/CSharpCourse/CSharpBeginner/obj/Debug/net6.0/CSharpBeginner.AssemblyInfo.cs
+/Users/mens1s/Desktop/com.mens1s/test/CSCourse/CSharpCourse/CSharpBeginner/obj/Debug/net6.0/CSharpBeginner.csproj.CoreCompileInputs.cache
+/Users/mens1s/Desktop/com.mens1s/test/CSCourse/CSharpCourse/CSharpBeginner/obj/Debug/net6.0/CSharpBeginner.sourcelink.json
+/Users/mens1s/Desktop/com.mens1s/test/CSCourse/CSharpCourse/CSharpBeginner/obj/Debug/net6.0/CSharpBeginner.dll
+/Users/mens1s/Desktop/com.mens1s/test/CSCourse/CSharpCourse/CSharpBeginner/obj/Debug/net6.0/refint/CSharpBeginner.dll
+/Users/mens1s/Desktop/com.mens1s/test/CSCourse/CSharpCourse/CSharpBeginner/obj/Debug/net6.0/CSharpBeginner.pdb
+/Users/mens1s/Desktop/com.mens1s/test/CSCourse/CSharpCourse/CSharpBeginner/obj/Debug/net6.0/CSharpBeginner.genruntimeconfig.cache
+/Users/mens1s/Desktop/com.mens1s/test/CSCourse/CSharpCourse/CSharpBeginner/obj/Debug/net6.0/ref/CSharpBeginner.dll

@@ -1,0 +1,15 @@
+/Users/mens1s/Desktop/com.mens1s/test/CSCourse/CSharpCourse/VirtualMethods/bin/Debug/net6.0/VirtualMethods
+/Users/mens1s/Desktop/com.mens1s/test/CSCourse/CSharpCourse/VirtualMethods/bin/Debug/net6.0/VirtualMethods.deps.json
+/Users/mens1s/Desktop/com.mens1s/test/CSCourse/CSharpCourse/VirtualMethods/bin/Debug/net6.0/VirtualMethods.runtimeconfig.json
+/Users/mens1s/Desktop/com.mens1s/test/CSCourse/CSharpCourse/VirtualMethods/bin/Debug/net6.0/VirtualMethods.dll
+/Users/mens1s/Desktop/com.mens1s/test/CSCourse/CSharpCourse/VirtualMethods/bin/Debug/net6.0/VirtualMethods.pdb
+/Users/mens1s/Desktop/com.mens1s/test/CSCourse/CSharpCourse/VirtualMethods/obj/Debug/net6.0/VirtualMethods.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mens1s/Desktop/com.mens1s/test/CSCourse/CSharpCourse/VirtualMethods/obj/Debug/net6.0/VirtualMethods.AssemblyInfoInputs.cache
+/Users/mens1s/Desktop/com.mens1s/test/CSCourse/CSharpCourse/VirtualMethods/obj/Debug/net6.0/VirtualMethods.AssemblyInfo.cs
+/Users/mens1s/Desktop/com.mens1s/test/CSCourse/CSharpCourse/VirtualMethods/obj/Debug/net6.0/VirtualMethods.csproj.CoreCompileInputs.cache
+/Users/mens1s/Desktop/com.mens1s/test/CSCourse/CSharpCourse/VirtualMethods/obj/Debug/net6.0/VirtualMethods.sourcelink.json
+/Users/mens1s/Desktop/com.mens1s/test/CSCourse/CSharpCourse/VirtualMethods/obj/Debug/net6.0/VirtualMethods.dll
+/Users/mens1s/Desktop/com.mens1s/test/CSCourse/CSharpCourse/VirtualMethods/obj/Debug/net6.0/refint/VirtualMethods.dll
+/Users/mens1s/Desktop/com.mens1s/test/CSCourse/CSharpCourse/VirtualMethods/obj/Debug/net6.0/VirtualMethods.pdb
+/Users/mens1s/Desktop/com.mens1s/test/CSCourse/CSharpCourse/VirtualMethods/obj/Debug/net6.0/VirtualMethods.genruntimeconfig.cache
+/Users/mens1s/Desktop/com.mens1s/test/CSCourse/CSharpCourse/VirtualMethods/obj/Debug/net6.0/ref/VirtualMethods.dll

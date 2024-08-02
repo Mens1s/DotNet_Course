@@ -1,0 +1,15 @@
+/Users/mens1s/Desktop/com.mens1s/test/CSCourse/CSharpCourse/Exceptions/bin/Debug/net6.0/Exceptions
+/Users/mens1s/Desktop/com.mens1s/test/CSCourse/CSharpCourse/Exceptions/bin/Debug/net6.0/Exceptions.deps.json
+/Users/mens1s/Desktop/com.mens1s/test/CSCourse/CSharpCourse/Exceptions/bin/Debug/net6.0/Exceptions.runtimeconfig.json
+/Users/mens1s/Desktop/com.mens1s/test/CSCourse/CSharpCourse/Exceptions/bin/Debug/net6.0/Exceptions.dll
+/Users/mens1s/Desktop/com.mens1s/test/CSCourse/CSharpCourse/Exceptions/bin/Debug/net6.0/Exceptions.pdb
+/Users/mens1s/Desktop/com.mens1s/test/CSCourse/CSharpCourse/Exceptions/obj/Debug/net6.0/Exceptions.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mens1s/Desktop/com.mens1s/test/CSCourse/CSharpCourse/Exceptions/obj/Debug/net6.0/Exceptions.AssemblyInfoInputs.cache
+/Users/mens1s/Desktop/com.mens1s/test/CSCourse/CSharpCourse/Exceptions/obj/Debug/net6.0/Exceptions.AssemblyInfo.cs
+/Users/mens1s/Desktop/com.mens1s/test/CSCourse/CSharpCourse/Exceptions/obj/Debug/net6.0/Exceptions.csproj.CoreCompileInputs.cache
+/Users/mens1s/Desktop/com.mens1s/test/CSCourse/CSharpCourse/Exceptions/obj/Debug/net6.0/Exceptions.sourcelink.json
+/Users/mens1s/Desktop/com.mens1s/test/CSCourse/CSharpCourse/Exceptions/obj/Debug/net6.0/Exceptions.dll
+/Users/mens1s/Desktop/com.mens1s/test/CSCourse/CSharpCourse/Exceptions/obj/Debug/net6.0/refint/Exceptions.dll
+/Users/mens1s/Desktop/com.mens1s/test/CSCourse/CSharpCourse/Exceptions/obj/Debug/net6.0/Exceptions.pdb
+/Users/mens1s/Desktop/com.mens1s/test/CSCourse/CSharpCourse/Exceptions/obj/Debug/net6.0/Exceptions.genruntimeconfig.cache
+/Users/mens1s/Desktop/com.mens1s/test/CSCourse/CSharpCourse/Exceptions/obj/Debug/net6.0/ref/Exceptions.dll

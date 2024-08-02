@@ -1,0 +1,15 @@
+/Users/mens1s/Desktop/com.mens1s/test/CSCourse/CSharpCourse/TypesAndVariables/obj/Debug/net6.0/TypesAndVariables.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mens1s/Desktop/com.mens1s/test/CSCourse/CSharpCourse/TypesAndVariables/obj/Debug/net6.0/TypesAndVariables.AssemblyInfoInputs.cache
+/Users/mens1s/Desktop/com.mens1s/test/CSCourse/CSharpCourse/TypesAndVariables/obj/Debug/net6.0/TypesAndVariables.AssemblyInfo.cs
+/Users/mens1s/Desktop/com.mens1s/test/CSCourse/CSharpCourse/TypesAndVariables/obj/Debug/net6.0/TypesAndVariables.csproj.CoreCompileInputs.cache
+/Users/mens1s/Desktop/com.mens1s/test/CSCourse/CSharpCourse/TypesAndVariables/obj/Debug/net6.0/TypesAndVariables.sourcelink.json
+/Users/mens1s/Desktop/com.mens1s/test/CSCourse/CSharpCourse/TypesAndVariables/bin/Debug/net6.0/TypesAndVariables
+/Users/mens1s/Desktop/com.mens1s/test/CSCourse/CSharpCourse/TypesAndVariables/bin/Debug/net6.0/TypesAndVariables.deps.json
+/Users/mens1s/Desktop/com.mens1s/test/CSCourse/CSharpCourse/TypesAndVariables/bin/Debug/net6.0/TypesAndVariables.runtimeconfig.json
+/Users/mens1s/Desktop/com.mens1s/test/CSCourse/CSharpCourse/TypesAndVariables/bin/Debug/net6.0/TypesAndVariables.dll
+/Users/mens1s/Desktop/com.mens1s/test/CSCourse/CSharpCourse/TypesAndVariables/bin/Debug/net6.0/TypesAndVariables.pdb
+/Users/mens1s/Desktop/com.mens1s/test/CSCourse/CSharpCourse/TypesAndVariables/obj/Debug/net6.0/TypesAndVariables.dll
+/Users/mens1s/Desktop/com.mens1s/test/CSCourse/CSharpCourse/TypesAndVariables/obj/Debug/net6.0/refint/TypesAndVariables.dll
+/Users/mens1s/Desktop/com.mens1s/test/CSCourse/CSharpCourse/TypesAndVariables/obj/Debug/net6.0/TypesAndVariables.pdb
+/Users/mens1s/Desktop/com.mens1s/test/CSCourse/CSharpCourse/TypesAndVariables/obj/Debug/net6.0/TypesAndVariables.genruntimeconfig.cache
+/Users/mens1s/Desktop/com.mens1s/test/CSCourse/CSharpCourse/TypesAndVariables/obj/Debug/net6.0/ref/TypesAndVariables.dll

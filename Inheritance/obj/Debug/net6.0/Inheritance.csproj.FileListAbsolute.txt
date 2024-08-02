@@ -1,0 +1,15 @@
+/Users/mens1s/Desktop/com.mens1s/test/CSCourse/CSharpCourse/Inheritance/bin/Debug/net6.0/Inheritance
+/Users/mens1s/Desktop/com.mens1s/test/CSCourse/CSharpCourse/Inheritance/bin/Debug/net6.0/Inheritance.deps.json
+/Users/mens1s/Desktop/com.mens1s/test/CSCourse/CSharpCourse/Inheritance/bin/Debug/net6.0/Inheritance.runtimeconfig.json
+/Users/mens1s/Desktop/com.mens1s/test/CSCourse/CSharpCourse/Inheritance/bin/Debug/net6.0/Inheritance.dll
+/Users/mens1s/Desktop/com.mens1s/test/CSCourse/CSharpCourse/Inheritance/bin/Debug/net6.0/Inheritance.pdb
+/Users/mens1s/Desktop/com.mens1s/test/CSCourse/CSharpCourse/Inheritance/obj/Debug/net6.0/Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mens1s/Desktop/com.mens1s/test/CSCourse/CSharpCourse/Inheritance/obj/Debug/net6.0/Inheritance.AssemblyInfoInputs.cache
+/Users/mens1s/Desktop/com.mens1s/test/CSCourse/CSharpCourse/Inheritance/obj/Debug/net6.0/Inheritance.AssemblyInfo.cs
+/Users/mens1s/Desktop/com.mens1s/test/CSCourse/CSharpCourse/Inheritance/obj/Debug/net6.0/Inheritance.csproj.CoreCompileInputs.cache
+/Users/mens1s/Desktop/com.mens1s/test/CSCourse/CSharpCourse/Inheritance/obj/Debug/net6.0/Inheritance.sourcelink.json
+/Users/mens1s/Desktop/com.mens1s/test/CSCourse/CSharpCourse/Inheritance/obj/Debug/net6.0/Inheritance.dll
+/Users/mens1s/Desktop/com.mens1s/test/CSCourse/CSharpCourse/Inheritance/obj/Debug/net6.0/refint/Inheritance.dll
+/Users/mens1s/Desktop/com.mens1s/test/CSCourse/CSharpCourse/Inheritance/obj/Debug/net6.0/Inheritance.pdb
+/Users/mens1s/Desktop/com.mens1s/test/CSCourse/CSharpCourse/Inheritance/obj/Debug/net6.0/Inheritance.genruntimeconfig.cache
+/Users/mens1s/Desktop/com.mens1s/test/CSCourse/CSharpCourse/Inheritance/obj/Debug/net6.0/ref/Inheritance.dll
