@@ -30,6 +30,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdoNetDemo", "AdoNetDemo\Ad
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EntityFrameworkDemo", "EntityFrameworkDemo\EntityFrameworkDemo.csproj", "{03FC650F-5EFC-4B97-8798-B36DAF09C74A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Generics", "Generics\Generics.csproj", "{06155BB3-3893-491B-A0BA-9615EDDD4BF0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -96,5 +98,9 @@ Global
 		{03FC650F-5EFC-4B97-8798-B36DAF09C74A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{03FC650F-5EFC-4B97-8798-B36DAF09C74A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{03FC650F-5EFC-4B97-8798-B36DAF09C74A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{06155BB3-3893-491B-A0BA-9615EDDD4BF0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06155BB3-3893-491B-A0BA-9615EDDD4BF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06155BB3-3893-491B-A0BA-9615EDDD4BF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06155BB3-3893-491B-A0BA-9615EDDD4BF0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

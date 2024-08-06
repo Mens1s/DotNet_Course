@@ -1,0 +1,15 @@
+/Users/mens1s/Desktop/com.mens1s/test/CSCourse/CSharpCourse/Generics/bin/Debug/net6.0/Generics
+/Users/mens1s/Desktop/com.mens1s/test/CSCourse/CSharpCourse/Generics/bin/Debug/net6.0/Generics.deps.json
+/Users/mens1s/Desktop/com.mens1s/test/CSCourse/CSharpCourse/Generics/bin/Debug/net6.0/Generics.runtimeconfig.json
+/Users/mens1s/Desktop/com.mens1s/test/CSCourse/CSharpCourse/Generics/bin/Debug/net6.0/Generics.dll
+/Users/mens1s/Desktop/com.mens1s/test/CSCourse/CSharpCourse/Generics/bin/Debug/net6.0/Generics.pdb
+/Users/mens1s/Desktop/com.mens1s/test/CSCourse/CSharpCourse/Generics/obj/Debug/net6.0/Generics.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mens1s/Desktop/com.mens1s/test/CSCourse/CSharpCourse/Generics/obj/Debug/net6.0/Generics.AssemblyInfoInputs.cache
+/Users/mens1s/Desktop/com.mens1s/test/CSCourse/CSharpCourse/Generics/obj/Debug/net6.0/Generics.AssemblyInfo.cs
+/Users/mens1s/Desktop/com.mens1s/test/CSCourse/CSharpCourse/Generics/obj/Debug/net6.0/Generics.csproj.CoreCompileInputs.cache
+/Users/mens1s/Desktop/com.mens1s/test/CSCourse/CSharpCourse/Generics/obj/Debug/net6.0/Generics.sourcelink.json
+/Users/mens1s/Desktop/com.mens1s/test/CSCourse/CSharpCourse/Generics/obj/Debug/net6.0/Generics.dll
+/Users/mens1s/Desktop/com.mens1s/test/CSCourse/CSharpCourse/Generics/obj/Debug/net6.0/refint/Generics.dll
+/Users/mens1s/Desktop/com.mens1s/test/CSCourse/CSharpCourse/Generics/obj/Debug/net6.0/Generics.pdb
+/Users/mens1s/Desktop/com.mens1s/test/CSCourse/CSharpCourse/Generics/obj/Debug/net6.0/Generics.genruntimeconfig.cache
+/Users/mens1s/Desktop/com.mens1s/test/CSCourse/CSharpCourse/Generics/obj/Debug/net6.0/ref/Generics.dll
