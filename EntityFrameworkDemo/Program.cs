@@ -33,6 +33,11 @@ namespace EntityFrameworkDemo
             
             productDal.Update(newProduct);
             //productDal.Delete(newProduct);
+            
+            // LINQ
+            productDal.GetAll().Where(p => p.Name.Contains("a")).ToList();
+
+            var result = productDal.GetById(1);
         }
         private static string TruncateOrPad(string value, int maxLength)
         {
