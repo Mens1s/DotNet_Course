@@ -1,0 +1,15 @@
+/Users/mens1s/Desktop/com.mens1s/test/CSCourse/CSharpCourse/FunctionAndActions/bin/Debug/net6.0/FunctionAndActions
+/Users/mens1s/Desktop/com.mens1s/test/CSCourse/CSharpCourse/FunctionAndActions/bin/Debug/net6.0/FunctionAndActions.deps.json
+/Users/mens1s/Desktop/com.mens1s/test/CSCourse/CSharpCourse/FunctionAndActions/bin/Debug/net6.0/FunctionAndActions.runtimeconfig.json
+/Users/mens1s/Desktop/com.mens1s/test/CSCourse/CSharpCourse/FunctionAndActions/bin/Debug/net6.0/FunctionAndActions.dll
+/Users/mens1s/Desktop/com.mens1s/test/CSCourse/CSharpCourse/FunctionAndActions/bin/Debug/net6.0/FunctionAndActions.pdb
+/Users/mens1s/Desktop/com.mens1s/test/CSCourse/CSharpCourse/FunctionAndActions/obj/Debug/net6.0/FunctionAndActions.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mens1s/Desktop/com.mens1s/test/CSCourse/CSharpCourse/FunctionAndActions/obj/Debug/net6.0/FunctionAndActions.AssemblyInfoInputs.cache
+/Users/mens1s/Desktop/com.mens1s/test/CSCourse/CSharpCourse/FunctionAndActions/obj/Debug/net6.0/FunctionAndActions.AssemblyInfo.cs
+/Users/mens1s/Desktop/com.mens1s/test/CSCourse/CSharpCourse/FunctionAndActions/obj/Debug/net6.0/FunctionAndActions.csproj.CoreCompileInputs.cache
+/Users/mens1s/Desktop/com.mens1s/test/CSCourse/CSharpCourse/FunctionAndActions/obj/Debug/net6.0/FunctionAndActions.sourcelink.json
+/Users/mens1s/Desktop/com.mens1s/test/CSCourse/CSharpCourse/FunctionAndActions/obj/Debug/net6.0/FunctionAndActions.dll
+/Users/mens1s/Desktop/com.mens1s/test/CSCourse/CSharpCourse/FunctionAndActions/obj/Debug/net6.0/refint/FunctionAndActions.dll
+/Users/mens1s/Desktop/com.mens1s/test/CSCourse/CSharpCourse/FunctionAndActions/obj/Debug/net6.0/FunctionAndActions.pdb
+/Users/mens1s/Desktop/com.mens1s/test/CSCourse/CSharpCourse/FunctionAndActions/obj/Debug/net6.0/FunctionAndActions.genruntimeconfig.cache
+/Users/mens1s/Desktop/com.mens1s/test/CSCourse/CSharpCourse/FunctionAndActions/obj/Debug/net6.0/ref/FunctionAndActions.dll

@@ -1,0 +1,15 @@
+/Users/mens1s/Desktop/com.mens1s/test/CSCourse/CSharpCourse/Delegates/bin/Debug/net6.0/Delegates
+/Users/mens1s/Desktop/com.mens1s/test/CSCourse/CSharpCourse/Delegates/bin/Debug/net6.0/Delegates.deps.json
+/Users/mens1s/Desktop/com.mens1s/test/CSCourse/CSharpCourse/Delegates/bin/Debug/net6.0/Delegates.runtimeconfig.json
+/Users/mens1s/Desktop/com.mens1s/test/CSCourse/CSharpCourse/Delegates/bin/Debug/net6.0/Delegates.dll
+/Users/mens1s/Desktop/com.mens1s/test/CSCourse/CSharpCourse/Delegates/bin/Debug/net6.0/Delegates.pdb
+/Users/mens1s/Desktop/com.mens1s/test/CSCourse/CSharpCourse/Delegates/obj/Debug/net6.0/Delegates.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mens1s/Desktop/com.mens1s/test/CSCourse/CSharpCourse/Delegates/obj/Debug/net6.0/Delegates.AssemblyInfoInputs.cache
+/Users/mens1s/Desktop/com.mens1s/test/CSCourse/CSharpCourse/Delegates/obj/Debug/net6.0/Delegates.AssemblyInfo.cs
+/Users/mens1s/Desktop/com.mens1s/test/CSCourse/CSharpCourse/Delegates/obj/Debug/net6.0/Delegates.csproj.CoreCompileInputs.cache
+/Users/mens1s/Desktop/com.mens1s/test/CSCourse/CSharpCourse/Delegates/obj/Debug/net6.0/Delegates.sourcelink.json
+/Users/mens1s/Desktop/com.mens1s/test/CSCourse/CSharpCourse/Delegates/obj/Debug/net6.0/Delegates.dll
+/Users/mens1s/Desktop/com.mens1s/test/CSCourse/CSharpCourse/Delegates/obj/Debug/net6.0/refint/Delegates.dll
+/Users/mens1s/Desktop/com.mens1s/test/CSCourse/CSharpCourse/Delegates/obj/Debug/net6.0/Delegates.pdb
+/Users/mens1s/Desktop/com.mens1s/test/CSCourse/CSharpCourse/Delegates/obj/Debug/net6.0/Delegates.genruntimeconfig.cache
+/Users/mens1s/Desktop/com.mens1s/test/CSCourse/CSharpCourse/Delegates/obj/Debug/net6.0/ref/Delegates.dll

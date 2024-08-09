@@ -1,0 +1,15 @@
+/Users/mens1s/Desktop/com.mens1s/test/CSCourse/CSharpCourse/Events/bin/Debug/net6.0/Events
+/Users/mens1s/Desktop/com.mens1s/test/CSCourse/CSharpCourse/Events/bin/Debug/net6.0/Events.deps.json
+/Users/mens1s/Desktop/com.mens1s/test/CSCourse/CSharpCourse/Events/bin/Debug/net6.0/Events.runtimeconfig.json
+/Users/mens1s/Desktop/com.mens1s/test/CSCourse/CSharpCourse/Events/bin/Debug/net6.0/Events.dll
+/Users/mens1s/Desktop/com.mens1s/test/CSCourse/CSharpCourse/Events/bin/Debug/net6.0/Events.pdb
+/Users/mens1s/Desktop/com.mens1s/test/CSCourse/CSharpCourse/Events/obj/Debug/net6.0/Events.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mens1s/Desktop/com.mens1s/test/CSCourse/CSharpCourse/Events/obj/Debug/net6.0/Events.AssemblyInfoInputs.cache
+/Users/mens1s/Desktop/com.mens1s/test/CSCourse/CSharpCourse/Events/obj/Debug/net6.0/Events.AssemblyInfo.cs
+/Users/mens1s/Desktop/com.mens1s/test/CSCourse/CSharpCourse/Events/obj/Debug/net6.0/Events.csproj.CoreCompileInputs.cache
+/Users/mens1s/Desktop/com.mens1s/test/CSCourse/CSharpCourse/Events/obj/Debug/net6.0/Events.sourcelink.json
+/Users/mens1s/Desktop/com.mens1s/test/CSCourse/CSharpCourse/Events/obj/Debug/net6.0/Events.dll
+/Users/mens1s/Desktop/com.mens1s/test/CSCourse/CSharpCourse/Events/obj/Debug/net6.0/refint/Events.dll
+/Users/mens1s/Desktop/com.mens1s/test/CSCourse/CSharpCourse/Events/obj/Debug/net6.0/Events.pdb
+/Users/mens1s/Desktop/com.mens1s/test/CSCourse/CSharpCourse/Events/obj/Debug/net6.0/Events.genruntimeconfig.cache
+/Users/mens1s/Desktop/com.mens1s/test/CSCourse/CSharpCourse/Events/obj/Debug/net6.0/ref/Events.dll
