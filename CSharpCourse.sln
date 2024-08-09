@@ -34,6 +34,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Generics", "Generics\Generi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Attributes", "Attributes\Attributes.csproj", "{378DA320-2C70-415B-9A6E-E9809AED7217}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Reflection", "Reflection\Reflection.csproj", "{8678D27A-732C-482D-ABB5-4953663B2DED}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -108,5 +110,9 @@ Global
 		{378DA320-2C70-415B-9A6E-E9809AED7217}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{378DA320-2C70-415B-9A6E-E9809AED7217}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{378DA320-2C70-415B-9A6E-E9809AED7217}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8678D27A-732C-482D-ABB5-4953663B2DED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8678D27A-732C-482D-ABB5-4953663B2DED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8678D27A-732C-482D-ABB5-4953663B2DED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8678D27A-732C-482D-ABB5-4953663B2DED}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
