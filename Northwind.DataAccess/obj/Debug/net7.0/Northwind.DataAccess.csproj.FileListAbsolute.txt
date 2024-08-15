@@ -1,0 +1,16 @@
+/Users/mens1s/Desktop/com.mens1s/test/CSCourse/CSharpCourse/Northwind.DataAccess/bin/Debug/net7.0/Northwind.DataAccess.deps.json
+/Users/mens1s/Desktop/com.mens1s/test/CSCourse/CSharpCourse/Northwind.DataAccess/bin/Debug/net7.0/Northwind.DataAccess.dll
+/Users/mens1s/Desktop/com.mens1s/test/CSCourse/CSharpCourse/Northwind.DataAccess/bin/Debug/net7.0/Northwind.DataAccess.pdb
+/Users/mens1s/Desktop/com.mens1s/test/CSCourse/CSharpCourse/Northwind.DataAccess/bin/Debug/net7.0/Northwind.Entities.dll
+/Users/mens1s/Desktop/com.mens1s/test/CSCourse/CSharpCourse/Northwind.DataAccess/bin/Debug/net7.0/Northwind.Entities.pdb
+/Users/mens1s/Desktop/com.mens1s/test/CSCourse/CSharpCourse/Northwind.DataAccess/obj/Debug/net7.0/Northwind.DataAccess.csproj.AssemblyReference.cache
+/Users/mens1s/Desktop/com.mens1s/test/CSCourse/CSharpCourse/Northwind.DataAccess/obj/Debug/net7.0/Northwind.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mens1s/Desktop/com.mens1s/test/CSCourse/CSharpCourse/Northwind.DataAccess/obj/Debug/net7.0/Northwind.DataAccess.AssemblyInfoInputs.cache
+/Users/mens1s/Desktop/com.mens1s/test/CSCourse/CSharpCourse/Northwind.DataAccess/obj/Debug/net7.0/Northwind.DataAccess.AssemblyInfo.cs
+/Users/mens1s/Desktop/com.mens1s/test/CSCourse/CSharpCourse/Northwind.DataAccess/obj/Debug/net7.0/Northwind.DataAccess.csproj.CoreCompileInputs.cache
+/Users/mens1s/Desktop/com.mens1s/test/CSCourse/CSharpCourse/Northwind.DataAccess/obj/Debug/net7.0/Northwind.DataAccess.sourcelink.json
+/Users/mens1s/Desktop/com.mens1s/test/CSCourse/CSharpCourse/Northwind.DataAccess/obj/Debug/net7.0/Northwin.AAEE89B5.Up2Date
+/Users/mens1s/Desktop/com.mens1s/test/CSCourse/CSharpCourse/Northwind.DataAccess/obj/Debug/net7.0/Northwind.DataAccess.dll
+/Users/mens1s/Desktop/com.mens1s/test/CSCourse/CSharpCourse/Northwind.DataAccess/obj/Debug/net7.0/refint/Northwind.DataAccess.dll
+/Users/mens1s/Desktop/com.mens1s/test/CSCourse/CSharpCourse/Northwind.DataAccess/obj/Debug/net7.0/Northwind.DataAccess.pdb
+/Users/mens1s/Desktop/com.mens1s/test/CSCourse/CSharpCourse/Northwind.DataAccess/obj/Debug/net7.0/ref/Northwind.DataAccess.dll

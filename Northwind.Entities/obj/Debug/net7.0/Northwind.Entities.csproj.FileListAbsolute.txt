@@ -1,0 +1,13 @@
+/Users/mens1s/Desktop/com.mens1s/test/CSCourse/CSharpCourse/Northwind.Entities/bin/Debug/net7.0/Northwind.Entities.deps.json
+/Users/mens1s/Desktop/com.mens1s/test/CSCourse/CSharpCourse/Northwind.Entities/bin/Debug/net7.0/Northwind.Entities.dll
+/Users/mens1s/Desktop/com.mens1s/test/CSCourse/CSharpCourse/Northwind.Entities/bin/Debug/net7.0/Northwind.Entities.pdb
+/Users/mens1s/Desktop/com.mens1s/test/CSCourse/CSharpCourse/Northwind.Entities/obj/Debug/net7.0/Northwind.Entities.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mens1s/Desktop/com.mens1s/test/CSCourse/CSharpCourse/Northwind.Entities/obj/Debug/net7.0/Northwind.Entities.AssemblyInfoInputs.cache
+/Users/mens1s/Desktop/com.mens1s/test/CSCourse/CSharpCourse/Northwind.Entities/obj/Debug/net7.0/Northwind.Entities.AssemblyInfo.cs
+/Users/mens1s/Desktop/com.mens1s/test/CSCourse/CSharpCourse/Northwind.Entities/obj/Debug/net7.0/Northwind.Entities.csproj.CoreCompileInputs.cache
+/Users/mens1s/Desktop/com.mens1s/test/CSCourse/CSharpCourse/Northwind.Entities/obj/Debug/net7.0/Northwind.Entities.sourcelink.json
+/Users/mens1s/Desktop/com.mens1s/test/CSCourse/CSharpCourse/Northwind.Entities/obj/Debug/net7.0/Northwind.Entities.dll
+/Users/mens1s/Desktop/com.mens1s/test/CSCourse/CSharpCourse/Northwind.Entities/obj/Debug/net7.0/refint/Northwind.Entities.dll
+/Users/mens1s/Desktop/com.mens1s/test/CSCourse/CSharpCourse/Northwind.Entities/obj/Debug/net7.0/Northwind.Entities.pdb
+/Users/mens1s/Desktop/com.mens1s/test/CSCourse/CSharpCourse/Northwind.Entities/obj/Debug/net7.0/ref/Northwind.Entities.dll
+/Users/mens1s/Desktop/com.mens1s/test/CSCourse/CSharpCourse/Northwind.Entities/obj/Debug/net7.0/Northwind.Entities.csproj.AssemblyReference.cache
