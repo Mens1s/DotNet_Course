@@ -24,6 +24,10 @@ namespace api.Models
 
         public long MarketCap { get; set; }
 
+        public DateTime CreatedTime {get;set;} = DateTime.Now;
+
+        public DateTime UpdatedTime {get;set;} = DateTime.Now;
+
         public List<Comment> Comments { get; set; } = new List<Comment>();
     }
 }
